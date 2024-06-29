@@ -1,0 +1,8 @@
+{
+  "Short Form Video": "/api/marketing/short-form-video/generate",
+  "SEO": "/api/marketing/seo/generate",
+  "Youtube Video": "/api/marketing/youtube/generate",
+  "Twitter": "/api/marketing/twitter/generate",
+  "Community and Forum": "/api/marketing/community-forum/generate",
+  "LinkedIn": "/api/marketing/linkedin/generate"
+}

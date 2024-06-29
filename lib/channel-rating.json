@@ -1,0 +1,82 @@
+{
+  "Business to Consumer (B2C)": [
+    { 
+      "channel": "Short Form Video",
+      "recommended": true 
+    },
+    { 
+      "channel": "SEO",
+      "recommended": true 
+    },
+    { 
+      "channel": "Youtube Video",
+      "recommended": true 
+    },
+    { 
+      "channel": "Twitter",
+      "recommended": false 
+    },
+    { 
+      "channel": "Community and Forum",
+      "recommended": false 
+    },
+    { 
+      "channel": "LinkedIn",
+      "recommended": false 
+     }
+  ],
+
+  "Business to Business (B2B)": [
+    { 
+      "channel": "LinkedIn",
+      "recommended": true 
+    },
+    { 
+      "channel": "SEO",
+      "recommended": true 
+    },
+    { 
+      "channel": "Community and Forum",
+      "recommended": true 
+    },
+    { 
+      "channel": "Youtube Video",
+      "recommended": false 
+    },
+    { 
+      "channel": "Twitter",
+      "recommended": false 
+    },
+    { 
+      "channel": "Short Form Video",
+      "recommended": false 
+    }
+  ],
+
+  "Marketplace": [
+    { 
+      "channel": "SEO",
+      "recommended": true 
+    },
+    { 
+      "channel": "Short Form Video",
+      "recommended": true 
+    },
+    { 
+      "channel": "YouTube Video",
+      "recommended": true 
+    },
+    { 
+      "channel": "Twitter",
+      "recommended": false 
+    },
+    { 
+      "channel": "LinkedIn",
+      "recommended": false 
+    },
+    { 
+      "channel": "Community and Forum",
+      "recommended": false 
+    }
+  ]
+}
